@@ -1,6 +1,6 @@
 <h1>
   
-  Hi, I'm Clifford Bernard&nbsp;
+  🙋‍♂️ Hi, I'm Clifford Bernard&nbsp;
   <a href="https://www.linkedin.com/in/clifford-bernard-107ba78/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"  widht="20" height="20"/>
   </a>&nbsp;
@@ -10,13 +10,13 @@
 </h1>
 
 <h3>
-  Leading the way in full-stack software development in the modern workplace
+  🏷️ Leading the way in full-stack software development in the modern workplace
 </h3>
 
 <br/>
 
 <h4>
-  About Me
+ 👋 About Me
   </h4>
 <p>
 As a Tech-Savvy Modern Workplace Thought Leader, I am passionate about driving the development and implementation of technical solutions in a business setting. My deep understanding of the technical landscape and strong communication and collaboration skills allow me to effectively work with clients and team members to understand their needs and deliver value. With a keen interest in full-stack software development and a dedication to staying up-to-date on industry trends, I am always looking for opportunities to learn and grow.
