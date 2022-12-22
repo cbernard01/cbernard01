@@ -29,7 +29,7 @@ Overall, my tagline, "Leading the way in full-stack software development in the 
 --- 
 
 
-#### 🛠 &nbsp;Languages:
+#### 🧑🏼‍💻 &nbsp;Languages:
 
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp;
