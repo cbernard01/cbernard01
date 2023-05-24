@@ -7,6 +7,14 @@ Leading the way in full-stack software development in the coporate work space
 *   🌍  I'm based in New Orleans, LA
 *   ✉️  You can contact me at [clifford@verticalfront.com](mailto:clifford@verticalfront.com)
 
+### Socials
+                                  
+<p align="left">
+<a href="https://www.twitter.com/Bern_Cliff" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+<a href="https://www.linkedin.com/in/cbernard01" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+
+
+
 ### More About Me
 <p>
 As a thought leader in the technology industry, I am passionate about driving the development and implementation of technical solutions to empower sales teams and enhance business performance. With my deep understanding of the technological landscape and strong communication and collaboration skills, I effectively work with clients and team members to understand their needs and deliver exceptional value. 
@@ -51,12 +59,12 @@ With a passion for bringing people and ideas together, I am dedicated to leading
 </p>
                     
 
-### Socials
+<!-- ### Blog -->
                                   
-<p align="left">
+<!-- <p align="left">
 <a href="https://www.twitter.com/Bern_Cliff" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
 <a href="https://cbernard01.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a>
 <a href="https://www.linkedin.com/in/cbernard01" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 <a href="http://www.medium.com/@cbernard01" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a>
-</p>
+</p> -->
 
