@@ -7,6 +7,19 @@ Leading the way in full-stack software development in the coporate work space
 *   🌍  I'm based in New Orleans, LA
 *   ✉️  You can contact me at [clifford@verticalfront.com](mailto:clifford@verticalfront.com)
 
+### More About Me
+<p>
+As a thought leader in the technology industry, I am passionate about driving the development and implementation of technical solutions to empower sales teams and enhance business performance. With my deep understanding of the technological landscape and strong communication and collaboration skills, I effectively work with clients and team members to understand their needs and deliver exceptional value. 
+
+With a keen interest in leveraging full-stack software development and staying up-to-date on industry trends, I continuously seek opportunities to learn and grow, ensuring that solutions are at the forefront of innovation and driving sales success.
+
+In addition to my expertise in the Modern Workplace industry, I bring extensive experience as a manager of diverse teams of engineers across large geographical locations. Recognized for my ability to lead and develop talented individuals into thought leaders in their fields, I foster a culture of growth and collaboration. By building and maintaining solid relationships with my team members, I create an environment where everyone feels valued, supported, and inspired to achieve their full potential.
+
+I am committed to championing diversity and inclusion in the workplace, recognizing the power of diverse perspectives in driving innovation and success. By creating an inclusive environment where all team members thrive, we can harness the collective strengths and ideas contributing to our continued growth.
+
+With a passion for bringing people and ideas together, I am dedicated to leading the way in full-stack software development within the modern workplace. If you'd like to discuss technology, leadership, or any other topics, I welcome you to reach out and start a conversation. Let's connect and explore opportunities for collaboration and growth!
+</p>
+
 ### Skills 
 
 <p align="left">
@@ -47,15 +60,3 @@ Leading the way in full-stack software development in the coporate work space
 <a href="http://www.medium.com/@cbernard01" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a>
 </p>
 
-### More About Me
-<p>
-As a thought leader in the technology industry, I am passionate about driving the development and implementation of technical solutions to empower sales teams and enhance business performance. With my deep understanding of the technological landscape and strong communication and collaboration skills, I effectively work with clients and team members to understand their needs and deliver exceptional value. 
-
-With a keen interest in leveraging full-stack software development and staying up-to-date on industry trends, I continuously seek opportunities to learn and grow, ensuring that solutions are at the forefront of innovation and driving sales success.
-
-In addition to my expertise in the Modern Workplace industry, I bring extensive experience as a manager of diverse teams of engineers across large geographical locations. Recognized for my ability to lead and develop talented individuals into thought leaders in their fields, I foster a culture of growth and collaboration. By building and maintaining solid relationships with my team members, I create an environment where everyone feels valued, supported, and inspired to achieve their full potential.
-
-I am committed to championing diversity and inclusion in the workplace, recognizing the power of diverse perspectives in driving innovation and success. By creating an inclusive environment where all team members thrive, we can harness the collective strengths and ideas contributing to our continued growth.
-
-With a passion for bringing people and ideas together, I am dedicated to leading the way in full-stack software development within the modern workplace. If you'd like to discuss technology, leadership, or any other topics, I welcome you to reach out and start a conversation. Let's connect and explore opportunities for collaboration and growth!
-</p>
