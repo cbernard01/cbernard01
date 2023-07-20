@@ -5,6 +5,7 @@ Leading the way in full-stack software development in the coporate workspace
 --------------------------------------------------------------------------
 
 *   🌍  I'm based in New Orleans, LA
+*   Working remotely is fine with me.
 *   ✉️  You can contact me at [clifford@verticalfront.com](mailto:clifford@verticalfront.com)
 
 ### Socials
