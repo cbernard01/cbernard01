@@ -7,7 +7,7 @@ Chief Architect & AI Solutions Leader | Cloud, Microservices & Full-Stack Engine
 
 *   🌍  I'm based in New Orleans, LA
 *   Working remotely is fine with me.
-*   ✉️  You can contact me at [clifford@verticalfront.com](mailto:cliffordbernard@hotmail.com)
+*   ✉️  You can contact me at [cliffordbernard@hotmail.com](mailto:cliffordbernard@hotmail.com)
 
 ### Socials
                                   
