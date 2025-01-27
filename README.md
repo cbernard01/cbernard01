@@ -1,7 +1,8 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Clifford Bernard
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm Clifford Bernard
 ========================================================================================================================================
 
-Leading the way in full-stack software development in the coporate workspace
+Chief Architect & AI Solutions Leader | Cloud, Microservices & Full-Stack Engineering (Node.js/React/Python/Go) | 20+ Years Scaling Enterprise Tech
+
 --------------------------------------------------------------------------
 
 *   🌍  I'm based in New Orleans, LA
